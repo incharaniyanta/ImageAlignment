@@ -2,9 +2,9 @@
 Feature based Image Alignment
 
 ##### about the files:
-executable file - encapsulation.py
-graph of high level model - graph.jpg
-input image pairs - scanned-form and form / scanned-form1 and form1
+###### executable file - encapsulation.py
+###### graph of high level model - graph.jpg
+###### input image pairs - scanned-form and form / scanned-form1 and form1
 
 
 ## Steps for Feature Based Image Alignment
