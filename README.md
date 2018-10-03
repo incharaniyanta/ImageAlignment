@@ -27,5 +27,5 @@ A homography can be computed when we have 4 or more corresponding points in two 
 Once an accurate homography has been calculated, the transformation can be applied to all pixels in one image to map it to the other image. This is done using the warpPerspective function in OpenCV. This is accomplished in Line 63 in C++ and Line 49 in Python
 
 
-## Original post:
+### Reference:
 https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
